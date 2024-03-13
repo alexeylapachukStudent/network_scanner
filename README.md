@@ -26,4 +26,4 @@ To get more information about script's argument, use next command:
 > ./ network_scanner.py --help
 ```
 
-![Help command](./ReadmeMaterials/network_scanner_help.gif)
+![Help command](./ReadmeMaterials/network_scanning_help.gif)
